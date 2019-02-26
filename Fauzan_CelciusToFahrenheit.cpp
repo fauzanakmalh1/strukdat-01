@@ -10,7 +10,7 @@ Deskripsi       : Exercise 02 Praktikum
 
 using namespace std;        //untuk mempersingkat penulisan cin, cout, dll tanpa harus mengetik std lagi
 
-int celciusFahrenheit(float n, float hasil)         //fungsi untuk mengubah suhu
+float celciusFahrenheit(float n, float hasil)         //fungsi untuk mengubah suhu
 {
     cout<<"Masukan Suhu dalam Celcius   : "; cin>>n;        //memasukan celcius
     hasil = (n*9/5)+32;                                     //rumus
