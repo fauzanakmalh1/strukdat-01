@@ -1,5 +1,5 @@
 /*
-Nama Program    : Swap
+Nama Program    : Program Swap
 Nama            : Fauzan Akmal Hariz
 NPM             : 140810180005
 Tanggal buat    : 26 Februari 2019
@@ -26,7 +26,7 @@ int main()              //program utama
     cout<<"x adalah : " <<x <<endl;
     cout<<"y adalah : " <<y <<endl <<endl;
 
-    swap(x,y);                  //memanggil fungsi swao
+    swap(x,y);                  //memanggil fungsi swap
 
     cout<<"Setelah di Swap" <<endl <<endl;
     cout<<"x adalah : " <<x <<endl;
