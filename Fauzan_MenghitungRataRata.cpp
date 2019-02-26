@@ -1,5 +1,5 @@
 /*
-Nama Program    : Program Menghitung Rata-Rata
+Nama Program    : Program Menghitung Rata-Rata Cpp
 Nama            : Fauzan Akmal Hariz
 NPM             : 140810180005
 Tanggal buat    : 26 Februari 2019
