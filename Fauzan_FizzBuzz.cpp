@@ -1,5 +1,5 @@
 /*
-Nama Program    : FizzBuzz
+Nama Program    : Program FizzBuzz
 Nama            : Fauzan Akmal Hariz
 NPM             : 140810180005
 Tanggal buat    : 26 Februari 2019
