@@ -1,5 +1,5 @@
 /*
-Nama Program    : Celcius to Fhrenheit
+Nama Program    : Celcius to Fahrenheit
 Nama            : Fauzan Akmal Hariz
 NPM             : 140810180005
 Tanggal buat    : 26 Februari 2019
@@ -26,3 +26,4 @@ int main()                  //program utama
     celciusFahrenheit(n, hasil);        //memanggil fungsi
 
 }
+
